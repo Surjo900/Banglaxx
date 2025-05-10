@@ -1,0 +1,13 @@
+{
+  "name": "banglaxxx-video-upload",
+  "version": "1.0.0",
+  "description": "A simple video upload site using Node.js and Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  }
+}
